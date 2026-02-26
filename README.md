@@ -18,3 +18,25 @@ Clone the repository and install the necessary dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## 🛠 Usage
+​Ensure useragent.json is present in the root directory before launching.
+
+```bash
+python sms.py
+```
+## 📋 Requirements
+​The following libraries are required (automatically handled by requirements.txt):
+# ​requests
+# ​rich
+# ​urllib3
+
+## ​⚠️ Disclaimer
+​This tool is for educational and security testing purposes only.
+
+​The creator (K.M.H) assumes no responsibility for any misuse or damage caused by this tool.
+​Usage for harassing individuals or illegal activities is strictly prohibited. Use at your own risk.
+
+### ​👤 Creator
+# ​Name: K.M.H 😎
+# ​Version: 7.0 (Private Edition)
+
