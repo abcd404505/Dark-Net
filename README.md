@@ -37,7 +37,7 @@ python sms.py
 
 ​Usage for harassing individuals or illegal activities is strictly prohibited. Use at your own risk.
 
-##​👤 Creator
-### ​Name: K.M.H 😎
-### ​Version: 7.0 (Private Edition)
+## 👤 Creator
+* Name: K.M.H 😎
+* ​Version: 7.0 (Private Edition)
 
